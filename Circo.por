@@ -22,6 +22,8 @@ programa
 		escreva("O melhor preço de vendas para o ingresso é R$", melhorPreco)
 		escreva("\nO número de pessoas que compõe a audiência é ", melhorPublico)
 		escreva("\nO lucro esperado com a realização do evento é R$", melhorLucro)
+
+//teste
 	}
 }
 /* $$$ Portugol Studio $$$ 
